@@ -11,4 +11,4 @@ description:Custom wishlist based on my play style with a Titan main character, 
 
 dimwishlist:item=986465102&perks=3527390035,2691069460#notes:Friction Fire - Hunter Warlock
 
-dimwishlist:item=423773963&perks=663495154,106909392,2279082265,2691069460#notes:Escape Velocity - Anyone
+dimwishlist:item=1786797708&perks=663495154,106909392,2279082265,2691069460#notes:Escape Velocity - Anyone
