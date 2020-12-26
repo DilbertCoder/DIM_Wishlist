@@ -1,0 +1,22 @@
+How to parse a DIM web URL into a DIM wishlist line.
+
+A DIM wishlist line looks like this
+dimwishlist:item=4248569242&perks=106909392,1523832109,3108830275#notes:Heritage - Reconstruction
+
+The numbers come from the DIM web URL when you select a given item from your inventory and the click the name.
+You wil get a web URL like this:
+https://destinytracker.com/destiny-2/db/items/4248569242?perks=918679156,1467527085,3142289711,3300816228,588594999,4248210736,2323986101,518224744
+
+
+Ok, so lets start to break this down.
+item=<item #> this the the number at the items/ in the URL
+perks=<perk #s> this is a comma seperated list of the perks you want this build of the weapon to have. This comes from the list of numbers
+  in the URL after the ?perks= 
+For an example lets break down the URL from above. Are perks are
+918679156,1467527085,3142289711,3300816228,588594999,4248210736,2323986101,518224744
+<Frame #>,<Barrel #>,<Perk 1>,<Perk 2>,<Perk 3>,<don't really care after this>
+
+The first number is the frame type. This one usually isn't needed since a specific type of gun usually only has 1 type of frame
+The second number is the first column in the Weapon Perks area of the DIM item This is uaually the Barrel type
+The thrid number is the next perk. Depending on the gun it can have 2 to 3 perks after the barrel. These are usually the perke you want to focus
+on. 
