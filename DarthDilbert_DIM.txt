@@ -1,0 +1,14 @@
+title:This is a wishlist for DarthDilbert. Causal player of PvE
+description:Custom wishlist based on my play style with a Titan main character, Hunter secondary, and Warlock third
+
+//Friction Fire: 986465102
+//Escape Velocity: 423773963
+//Auto-Loading Holster: 3527390035
+//Vorpal: 2691069460
+//Zen Moment: 2279082265
+//Tacital Mag: 106909392
+//Model 8 Red: 663495154
+
+dimwishlist:item=986465102&perks=3527390035,2691069460#notes:Friction Fire - Hunter Warlock
+
+dimwishlist:item=423773963&perks=663495154,106909392,2279082265,2691069460#notes:Escape Velocity - Anyone
