@@ -3,9 +3,9 @@ description:Custom wishlist based on my play style with a Titan main character, 
 
 title:Submachine gun items
 
-dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391#notes:Anyone
+dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391#notes:Escape Velocity - Anyone
 
 dimwishlist:item=1513993763&perks=3250034553,106909392,1820235745,1546637391#notes:Friction Fire - Titan
 dimwishlist:item=1513993763&perks=3250034553,106909392,3300816228,1546637391#notes:Friction Fire - Hunter Warlock
 
-
+dimwishlist:item=821154603&perks=106909392,1820235745,3425386926#notes:Gnawing Hunger - Titan
