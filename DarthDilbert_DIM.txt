@@ -3,8 +3,9 @@ description:Custom wishlist based on my play style with a Titan main character, 
 
 title:Submachine gun items
 
-dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391#notes:Test
-dimwishlist:item=1786797708&perks=106909392,3643424744,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
-dimwishlist:item=1786797708&perks=1087426260,3643424744,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
-dimwishlist:item=1786797708&perks=106909392,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
-dimwishlist:item=1786797708&perks=1087426260,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391#notes:Anyone
+
+dimwishlist:item=1513993763&perks=3250034553,106909392,1820235745,1546637391#notes:Friction Fire - Titan
+dimwishlist:item=1513993763&perks=3250034553,106909392,3300816228,1546637391#notes:Friction Fire - Hunter Warlock
+
+
