@@ -1,6 +1,8 @@
 title:This is a wishlist for DarthDilbert. Causal player of PvE
 description:Custom wishlist based on my play style with a Titan main character, Hunter secondary, and Warlock third
 
+title:Submachine gun items
+
 dimwishlist:item=1786797708&perks=663495154#notes:Test
 dimwishlist:item=1786797708&perks=106909392,3643424744,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
 dimwishlist:item=1786797708&perks=1087426260,3643424744,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
