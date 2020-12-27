@@ -80,7 +80,6 @@ dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:Steelfeather Repea
 //Machine Guns
 dimwishlist:item=4230965989&perks=2420895100,1523832109,3425386926#notes:Commemoration - Raid Drop
 
-
 //Shotguns
 dimwishlist:item=4248569242&perks=106909392,3300816228,3108830275#notes:Heritage
 dimwishlist:item=4248569242&perks=106909392,1523832109,3108830275#notes:Heritage
@@ -124,7 +123,6 @@ dimwishlist:item=981718087&perks=2010801679,3425386926#notes:Deafening Whisper
 
 //Rocket Launcher
 dimwishlist:item=958384347&perks=2846385770,2284787283#notes:Tomorrow's Answer
-
 
 //Swords
 dimwishlist:item=35794111&perks=1749209109,3913600130#notes:Temptation's Hook

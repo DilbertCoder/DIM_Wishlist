@@ -2,22 +2,60 @@ title:This is a wishlist for DarthDilbert. Causal player of PvE
 description:Custom wishlist based on my play style with a Titan main character, Hunter secondary, and Warlock third
 
 //List of perks and their numbers
+//A
+//Ambitious Assasin: 2010801679
+//Auto-Loading Holster: 3300816228
+//Assault Mag: 791862061
+//B
+//C
+//Clown Cartridge: 2284787283
+//D
+//Demolitionist: 3523296417
+//E
+//Explosive Payload: 3038247973
+//Extended Mag: 2420895100
+//F
+//Feeding Frenzy: 2779035018
+//Full Auto Trigger System: 4267945040
+//G
+//H
+//High-Impact Reserves: 2213355989
+//I
+//J
+//K
+//Kill Clip: 1015611457
+//L
+//M
+//Model 8 Red Scope: 663495154
+//Multikill Clip: 2458213969
+//N
+//O
+//P
+//Q
+//R
+//Rapid Hit: 247725512
+//Rampage: 3425386926
+//Rangefinder: 2846385770
 //Recombination: 469285294
 //Reconstruction: 1523832109
-//Model 8 Red Scope: 663495154
-//Tactical Mag: 106909392
-//Zen Moment: 2387244414
-//Vorpal: 1546637391
+//Relentles Strikes: 1749209109
+//S
 //Subsistence: 1820235745
-//Rampage: 3425386926
-//Feeding Frenzy: 2779035018
-//Multikill Clip: 2458213969
-//Auto-Loading Holster: 3300816228
+//Swashbuckler:4082225868
+//T
+//Tactical Mag: 106909392
+//Trench Barrel: 2360754333
+//Triple Tap: 3400784728
+//U
 //Unrelenting: 3108830275
-//Assault Mag: 791862061
-//Rapid Hit: 247725512
-//Kill Clip: 1015611457
-//Explosive Payload: 3038247973
+//V
+//Vorpal: 1546637391
+//W
+//Whirlwind Blade: 3913600130
+//X
+//Y
+//Z
+//Zen Moment: 2387244414
 
 //To find the perk and weapon numbers go to https://data.destinysets.com/
 //Enter in the name of the perk or weapon and you ware looking for the items that say:
@@ -31,18 +69,24 @@ dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391#note
 dimwishlist:item=1513993763&perks=106909392,1820235745,1546637391#notes:Friction Fire
 dimwishlist:item=1513993763&perks=106909392,3300816228,1546637391#notes:Friction Fire
 
+dimwishlist:item=766323545&perks=2010801679,2779035018#notes:Seventh Seraph VY-7
+
 //Auto Rifles
 dimwishlist:item=821154603&perks=106909392,1820235745,3425386926#notes:Gnawing Hunger
+dimwishlist:item=821154603&perks=1820235745,4082225868#notes:Gnawing Hunger
 
 dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:Steelfeather Repeater
 
 //Machine Guns
+dimwishlist:item=4230965989&perks=2420895100,1523832109,3425386926#notes:Commemoration - Raid Drop
 
 //Shotguns
 dimwishlist:item=4248569242&perks=106909392,3300816228,3108830275#notes:Heritage
 dimwishlist:item=4248569242&perks=106909392,1523832109,3108830275#notes:Heritage
 dimwishlist:item=4248569242&perks=791862061,1523832109,3108830275#notes:Heritage
- 
+
+dimwishlist:item=1821724780&perks=3300816228,2360754333#notes:Seventh Seraph CQC-12
+
 //Handcannons
 dimwishlist:item=3569802112&perks=2779035018,1015611457#notes:The Old Fashioned
 
@@ -51,6 +95,8 @@ dimwishlist:item=3569802112&perks=2779035018,1015611457#notes:The Old Fashioned
 //Pulse Rifles
 dimwishlist:item=2408405461&perks=247725512,1015611457#notes:Sacred Provenance
 
+dimwishlist:item=568515759&perks=4267945040,3425386926#notes:Chattering Bone
+
 //Bows
 
 //Scout Rifles
@@ -58,6 +104,9 @@ dimwishlist:item=3504336176&perks=247725512,3425386926#notes:Night Watch
 dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Night Watch
 
 //Sniper Rifles
+dimwishlist:item=1253087083&perks=3400784728,2213355989#notes:Ikelos_SR_V1.0.2
+
+dimwishlist:item=4166221755&perks=1546637391#notes:Trophy Hunter
 
 //Linear Fusion Rifles
 
@@ -66,7 +115,16 @@ dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Night Watch
 //Trace Rifles
 
 //Grenade Launcher
+dimwishlist:item=1946491241&perks=3300816228,3523296417#notes:Truthteller
+
+dimwishlist:item=981718087&perks=2010801679,3425386926#notes:Deafening Whisper
 
 //Heavy Grenade Launcher
 
 //Rocket Launcher
+dimwishlist:item=958384347&perks=2846385770,2284787283#notes:Tomorrow's Answer
+
+//Swords
+dimwishlist:item=35794111&perks=1749209109,3913600130#notes:Temptation's Hook
+
+dimwishlist:item=614426548&perks=1749209109,3913600130#notes:Falling Guillotine
