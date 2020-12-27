@@ -1,0 +1,75 @@
+title:TBAS Clan wishlist
+description:List of weapons and rolls enjoyed by the TBAS clan
+
+//List of perks and their numbers
+//Recombination: 469285294
+//Reconstruction: 1523832109
+//Model 8 Red Scope: 663495154
+//Tactical Mag: 106909392
+//Zen Moment: 2387244414
+//Vorpal: 1546637391
+//Subsistence: 1820235745
+//Rampage: 3425386926
+//Feeding Frenzy: 2779035018
+//Multikill Clip: 2458213969
+//Auto-Loading Holster: 3300816228
+//Unrelenting: 3108830275
+//Assault Mag: 791862061
+//Rapid Hit: 247725512
+//Kill Clip: 1015611457
+//Explosive Payload: 3038247973
+
+//To find the perk and weapon numbers go to https://data.destinysets.com/
+//Enter in the name of the perk or weapon and you ware looking for the items that say:
+// "InventoryItem: Trait" for perks
+// "InventoryItem: <weapontype>" for weapons
+// ex: Excape Velocity would say "InventoryItem: Submachine Gun"
+
+//Submachine Guns
+dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391#notes:Escape Velocity
+
+dimwishlist:item=1513993763&perks=106909392,1820235745,1546637391#notes:Friction Fire
+dimwishlist:item=1513993763&perks=106909392,3300816228,1546637391#notes:Friction Fire
+
+//Auto Rifles
+dimwishlist:item=821154603&perks=106909392,1820235745,3425386926#notes:Gnawing Hunger
+
+dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:Steelfeather Repeater
+
+//Machine Guns
+
+//Shotguns
+dimwishlist:item=4248569242&perks=106909392,3300816228,3108830275#notes:Heritage
+dimwishlist:item=4248569242&perks=106909392,1523832109,3108830275#notes:Heritage
+dimwishlist:item=4248569242&perks=791862061,1523832109,3108830275#notes:Heritage
+ 
+//Handcannons
+dimwishlist:item=3569802112&perks=2779035018,1015611457#notes:The Old Fashioned
+
+//Sidearms
+
+//Pulse Rifles
+dimwishlist:item=2408405461&perks=247725512,1015611457#notes:Sacred Provenance
+
+//Bows
+
+//Scout Rifles
+dimwishlist:item=3504336176&perks=247725512,3425386926#notes:Night Watch
+dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Night Watch
+
+//Sniper Rifles
+
+//Linear Fusion Rifles
+
+//Fusion Rifles
+
+//Trace Rifles
+
+//Grenade Launcher
+
+//Heavy Grenade Launcher
+
+//Rocket Launcher
+
+
+
