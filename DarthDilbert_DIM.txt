@@ -65,30 +65,47 @@ description:Custom wishlist based on my play style with a Titan main character, 
 
 //Submachine Guns
 dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391#notes:Escape Velocity
+dimwishlist:item=1786797708&perks=663495155,3230963543,3643424744,1546637391#notes:Escape Velocity
+dimwishlist:item=1786797708&perks=663495155,3230963543,4071163871,1546637391#notes:Escape Velocity
 
-dimwishlist:item=1513993763&perks=106909392,1820235745,1546637391#notes:Friction Fire
-dimwishlist:item=1513993763&perks=106909392,3300816228,1546637391#notes:Friction Fire
+dimwishlist:item=1513993763&perks=1840239774,106909392,1820235745,3425386926#notes:Friction Fire
+dimwishlist:item=1513993763&perks=1840239774,106909392,1820235745,1546637391#notes:Friction Fire
 
 dimwishlist:item=766323545&perks=2010801679,2779035018#notes:Seventh Seraph VY-7
 
+dimwishlist:item=766323545&perks=1840239774,106909392,3436462433,3425386926#notes:Cold Front
+dimwishlist:item=766323545&perks=1840239774,106909392,3436462433,4049631843#notes:Cold Front
+
 //Auto Rifles
-dimwishlist:item=821154603&perks=106909392,1820235745,3425386926#notes:Gnawing Hunger
-dimwishlist:item=821154603&perks=1820235745,4082225868#notes:Gnawing Hunger
+dimwishlist:item=821154603&perks=4090651448,106909392,2387244414,4082225868#notes:Gnawing Hunger
+dimwishlist:item=821154603&perks=4090651448,106909392,2387244414,3425386926#notes:Gnawing Hunger
+dimwishlist:item=821154603&perks=4090651448,106909392,3300816228,3425386926#notes:Gnawing Hunger
 
 dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:Steelfeather Repeater
+
+dimwishlist:item=1251729046&perks=839105230,1087426260,1354429876,3425386926#notes:Seventh Seraph Carbine
+dimwishlist:item=1251729046&perks=839105230,1087426260,1354429876,1546637391#notes:Seventh Seraph Carbine
+dimwishlist:item=1251729046&perks=839105230,1968497646,3300816228,3425386926#notes:Seventh Seraph Carbine
+dimwishlist:item=1251729046&perks=839105230,1968497646,3300816228,4082225868#notes:Seventh Seraph Carbine
 
 //Machine Guns
 dimwishlist:item=4230965989&perks=2420895100,1523832109,3425386926#notes:Commemoration - Raid Drop
 
 //Shotguns
-dimwishlist:item=4248569242&perks=106909392,3300816228,3108830275#notes:Heritage
-dimwishlist:item=4248569242&perks=106909392,1523832109,3108830275#notes:Heritage
-dimwishlist:item=4248569242&perks=791862061,1523832109,3108830275#notes:Heritage
+dimwishlist:item=4248569242&perks=4090651448,106909392,1523832109,2726471870#notes:Heritage
+dimwishlist:item=4248569242&perks=4090651448,106909392,1523832109,469285294#notes:Heritage
+dimwishlist:item=4248569242&perks=4090651448,106909392,3300816228,2726471870#notes:Heritage
+
+dimwishlist:item=4248569242&perks=4090651448,106909392,2039302152,1546637391#notes:Xenoclast IV
+dimwishlist:item=4248569242&perks=4090651448,106909392,2039302152,2360754333#notes:Xenoclast IV
 
 dimwishlist:item=1821724780&perks=3300816228,2360754333#notes:Seventh Seraph CQC-12
 
 //Handcannons
 dimwishlist:item=3569802112&perks=2779035018,1015611457#notes:The Old Fashioned
+
+dimwishlist:item=3569802112&perks=1482024992,1087426260,1523832109,3425386926#notes:Posterity
+dimwishlist:item=3569802112&perks=1482024992,1087426260,1523832109,4049631843#notes:Posterity
 
 //Sidearms
 
@@ -100,8 +117,9 @@ dimwishlist:item=568515759&perks=4267945040,3425386926#notes:Chattering Bone
 //Bows
 
 //Scout Rifles
-dimwishlist:item=3504336176&perks=247725512,3425386926#notes:Night Watch
-dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Night Watch
+dimwishlist:item=3504336176&perks=4090651448,1087426260,1820235745,3425386926#notes:Night Watch
+dimwishlist:item=3504336176&perks=4090651448,1087426260,1820235745,3038247973#notes:Night Watch
+dimwishlist:item=3504336176&perks=4090651448,1087426260,1820235745,2458213969#notes:Night Watch
 
 //Sniper Rifles
 dimwishlist:item=1253087083&perks=3400784728,2213355989#notes:Ikelos_SR_V1.0.2
