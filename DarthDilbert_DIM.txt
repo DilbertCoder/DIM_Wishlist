@@ -62,6 +62,8 @@ description:Custom wishlist based on my play style with a Titan main character, 
 // "InventoryItem: Trait" for perks
 // "InventoryItem: <weapontype>" for weapons
 // ex: Excape Velocity would say "InventoryItem: Submachine Gun"
+// The website https://d2gunsmith.com/ lets you build a weapon and then export the DIM wishlist text
+// very useful
 
 //Submachine Guns
 dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391#notes:Escape Velocity
@@ -111,6 +113,8 @@ dimwishlist:item=3281285075&perks=1482024992,1087426260,1523832109,4049631843#no
 dimwishlist:item=3281285075&perks=1482024992,106909392,1523832109,3425386926#notes:Posterity
 
 dimwishlist:item=3037520408&perks=4090651448,106909392,1354429876,2213355989#notes:Seventh Seraph Officer Revolver
+
+dimwishlist:item=3856705927&perks=4090651448,1431678320,712324018,3326204863#notes:Hawkmoon - Orig Quest Drop
 
 //Sidearms
 

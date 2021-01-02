@@ -62,6 +62,8 @@ description:List of weapons and rolls enjoyed by the TBAS clan
 // "InventoryItem: Trait" for perks
 // "InventoryItem: <weapontype>" for weapons
 // ex: Excape Velocity would say "InventoryItem: Submachine Gun"
+// The website https://d2gunsmith.com/ lets you build a weapon and then export the DIM wishlist text
+// very useful
 
 //Submachine Guns
 dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391#notes:Escape Velocity
