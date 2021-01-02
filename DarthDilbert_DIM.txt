@@ -91,6 +91,8 @@ dimwishlist:item=1561006927&perks=839105230,1968497646,3300816228,4082225868#not
 //Machine Guns
 dimwishlist:item=4230965989&perks=2420895100,1523832109,3425386926#notes:Commemoration - Raid Drop
 
+dimwishlist:item=1395261499#notes:Xenophages - Quest Exotic
+
 //Shotguns
 dimwishlist:item=4248569242&perks=4090651448,106909392,1523832109,2726471870#notes:Heritage
 dimwishlist:item=4248569242&perks=4090651448,106909392,1523832109,469285294#notes:Heritage
@@ -107,6 +109,8 @@ dimwishlist:item=3569802112&perks=2779035018,1015611457#notes:The Old Fashioned
 dimwishlist:item=3281285075&perks=1482024992,1087426260,1523832109,3425386926#notes:Posterity
 dimwishlist:item=3281285075&perks=1482024992,1087426260,1523832109,4049631843#notes:Posterity
 dimwishlist:item=3281285075&perks=1482024992,106909392,1523832109,3425386926#notes:Posterity
+
+dimwishlist:item=3037520408&perks=4090651448,106909392,1354429876,2213355989#notes:Seventh Seraph Officer Revolver
 
 //Sidearms
 
@@ -138,6 +142,8 @@ dimwishlist:item=1946491241&perks=3300816228,3523296417#notes:Truthteller
 
 dimwishlist:item=981718087&perks=2010801679,3425386926#notes:Deafening Whisper
 
+dimwishlist:item=2357297366#notes:Witherhoard
+
 //Heavy Grenade Launcher
 
 //Rocket Launcher
@@ -147,3 +153,5 @@ dimwishlist:item=958384347&perks=2846385770,2284787283#notes:Tomorrow's Answer
 dimwishlist:item=35794111&perks=1749209109,3913600130#notes:Temptation's Hook
 
 dimwishlist:item=614426548&perks=1749209109,3913600130#notes:Falling Guillotine
+
+dimwishlist:item=3487253372#notes:The Lament - Quest Exotic
