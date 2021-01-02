@@ -120,6 +120,7 @@ dimwishlist:item=3856705927&perks=4090651448,1431678320,712324018,3326204863#not
 
 //Pulse Rifles
 dimwishlist:item=2408405461&perks=247725512,1015611457#notes:Sacred Provenance
+dimwishlist:item=2408405461&perks=4090651448,679225683,247725512,1015611457#notes:Sacred Provenance
 
 dimwishlist:item=568515759&perks=4267945040,3425386926#notes:Chattering Bone
 
