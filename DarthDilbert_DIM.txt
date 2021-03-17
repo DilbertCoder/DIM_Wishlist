@@ -127,6 +127,8 @@ dimwishlist:item=3037520408&perks=4090651448,106909392,1354429876,2213355989#not
 
 dimwishlist:item=3856705927&perks=4090651448,1431678320,712324018,3326204863#notes:Hawkmoon - Orig Quest Drop
 
+dimwishlist:item=1046651176&perks=4090651448,1087426260,1820235745,3425386926#notes:Bottom Dollar
+
 //Sidearms
 
 //Pulse Rifles
