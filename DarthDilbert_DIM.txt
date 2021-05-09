@@ -8,75 +8,37 @@ description:Custom wishlist based on my play style with a Titan main character, 
 dimwishlist:item=766323545&perks=839105230,106909392,1354429876,2848615171#notes:Seventh Seraph VY-7
 
 //Auto Rifles
-dimwishlist:item=821154603&perks=4090651448,106909392,2387244414,4082225868#notes:Gnawing Hunger S14
-dimwishlist:item=821154603&perks=4090651448,106909392,2387244414,3425386926#notes:Gnawing Hunger S14
-dimwishlist:item=821154603&perks=4090651448,106909392,3300816228,3425386926#notes:Gnawing Hunger S14
-
 dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:Steelfeather Repeater
 
-dimwishlist:item=1561006927&perks=839105230,1087426260,1354429876,3425386926#notes:Seventh Seraph Carbine
-dimwishlist:item=1561006927&perks=839105230,1087426260,1354429876,1546637391#notes:Seventh Seraph Carbine
-dimwishlist:item=1561006927&perks=839105230,1968497646,3300816228,3425386926#notes:Seventh Seraph Carbine
-dimwishlist:item=1561006927&perks=839105230,1968497646,3300816228,4082225868#notes:Seventh Seraph Carbine
-
-dimwishlist:item=20935540&perks=1392496348,1087426260,3400784728,2848615171#notes: Arctic Haze S15
-dimwishlist:item=20935540&perks=1392496348,1087426260,1820235745,2848615171#notes: Arctic Haze S15
-dimwishlist:item=20935540&perks=1392496348,1087426260,3400784728,1546637391#notes: Arctic Haze S15
-
 //Machine Guns
-dimwishlist:item=4230965989&perks=2420895100,1523832109,3425386926#notes:Commemoration
 dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,3425386926#notes:Commemoration
-dimwishlist:item=4230965989&perks=839105230,2420895100,1523832109,3425386926#notes:Commemoration
-dimwishlist:item=4230965989&perks=1392496348,106909392,1359896290,2848615171#notes:Commemoration
+dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,2848615171#notes:Commemoration
 
 dimwishlist:item=1395261499#notes:Xenophages - Quest Exotic
 
 //Shotguns
-dimwishlist:item=4248569242&perks=4090651448,106909392,1523832109,2726471870#notes:Heritage
-dimwishlist:item=4248569242&perks=4090651448,106909392,1523832109,469285294#notes:Heritage
-dimwishlist:item=4248569242&perks=4090651448,106909392,3300816228,2726471870#notes:Heritage
-dimwishlist:item=4248569242&perks=1482024992,1087426260,1523832109,2726471870#notes:Heritage
-
-dimwishlist:item=2891672170&perks=4090651448,106909392,2039302152,1546637391#notes:Xenoclast IV
-dimwishlist:item=2891672170&perks=4090651448,106909392,2039302152,2360754333#notes:Xenoclast IV
-
-dimwishlist:item=1821724780&perks=3300816228,2360754333#notes:Seventh Seraph CQC-12
+dimwishlist:item=4248569242&perks=1482024992,106909392,1523832109,469285294#notes:Heritage
+dimwishlist:item=4248569242&perks=1482024992,106909392,3300816228,469285294#notes:Heritage
 
 //Handcannons
 dimwishlist:item=3569802112&perks=2779035018,1015611457#notes:The Old Fashioned
 
-dimwishlist:item=3281285075&perks=1482024992,1087426260,1523832109,3425386926#notes:Posterity
-dimwishlist:item=3281285075&perks=1482024992,1087426260,1523832109,4049631843#notes:Posterity
-dimwishlist:item=3281285075&perks=1482024992,106909392,1523832109,3425386926#notes:Posterity
-
 dimwishlist:item=3037520408&perks=4090651448,106909392,1354429876,2213355989#notes:Seventh Seraph Officer Revolver
-
-dimwishlist:item=3856705927&perks=4090651448,1431678320,712324018,3326204863#notes:Hawkmoon - Orig Quest Drop
 
 dimwishlist:item=1046651176&perks=4090651448,1087426260,1820235745,3425386926#notes:Bottom Dollar
 
 //Sidearms
+dimwishlist:item=2362471601#notes:Rat King
+dimwishlist:item=1853180924#notes:Traveler's Chosen
 
 //Pulse Rifles
-dimwishlist:item=2408405461&perks=247725512,1015611457#notes:Sacred Provenance
-dimwishlist:item=2408405461&perks=4090651448,679225683,247725512,1015611457#notes:Sacred Provenance
-
-dimwishlist:item=568515759&perks=4267945040,3425386926#notes:Chattering Bone
 
 //Bows
 
 //Scout Rifles
-dimwishlist:item=3504336176&perks=4090651448,1087426260,1820235745,3425386926#notes:Night Watch
-dimwishlist:item=3504336176&perks=4090651448,1087426260,1820235745,3038247973#notes:Night Watch
-dimwishlist:item=3504336176&perks=4090651448,1087426260,1820235745,2458213969#notes:Night Watch
-
 dimwishlist:item=3654674561#notes:Dead Man's Tale
 
 //Sniper Rifles
-dimwishlist:item=1253087083&perks=4090651448,1087426260,1354429876,2213355989#notes:Ikelos_SR_V1.0.2
-dimwishlist:item=1253087083&perks=4090651448,1087426260,3400784728,2213355989#notes:Ikelos_SR_V1.0.2
-dimwishlist:item=1253087083&perks=4090651448,1087426260,2779035018,2213355989#notes:Ikelos_SR_V1.0.2
-
 dimwishlist:item=4166221755&perks=1546637391#notes:Trophy Hunter
 
 dimwishlist:item=2603483885&perks=1840239774,1431678320,3117514172,990298390#notes:Cloudstrike
@@ -89,20 +51,15 @@ dimwishlist:item=2603483885&perks=1840239774,1431678320,3117514172,990298390#not
 dimwishlist:item=4103414242#notes:Divinity
 
 //Grenade Launcher
-dimwishlist:item=1946491241&perks=3300816228,3523296417#notes:Truthteller
-
-dimwishlist:item=981718087&perks=2010801679,3425386926#notes:Deafening Whisper
-
 dimwishlist:item=2357297366#notes:Witherhoard
 
 //Heavy Grenade Launcher
 
 //Rocket Launcher
 dimwishlist:item=958384347&perks=2846385770,2284787283#notes:Tomorrow's Answer
+dimwishlist:item=2399110176#notes:Eyes of Tomorrow
 
 //Swords
-dimwishlist:item=35794111&perks=1749209109,3913600130#notes:Temptation's Hook
-
 dimwishlist:item=614426548&perks=1749209109,3913600130#notes:Falling Guillotine
 
-dimwishlist:item=3487253372#notes:The Lament - Quest Exotic
+dimwishlist:item=3487253372#notes:The Lament
