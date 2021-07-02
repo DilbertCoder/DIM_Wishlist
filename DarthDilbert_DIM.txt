@@ -12,6 +12,8 @@ dimwishlist:item=1097616550&perks=1840239774,106909392,1820235745,4104185692#not
 
 //Auto Rifles
 dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:Steelfeather Repeater
+dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3425386926#notes: Chroma Rush
+dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3592538738#notes: Chroma Rush
 
 //Machine Guns
 dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,3425386926#notes:Commemoration
@@ -35,6 +37,7 @@ dimwishlist:item=2362471601#notes:Rat King
 dimwishlist:item=1853180924#notes:Traveler's Chosen
 
 //Pulse Rifles
+dimwishlist:item=1621558458&perks=2450788523,4104185692,2697220197#notes: Gridskipper
 
 //Bows
 dimwishlist:item=814876684#notes:Wish-Ender
@@ -65,7 +68,13 @@ dimwishlist:item=2399110176#notes:Eyes of Tomorrow
 dimwishlist:item=2496242052&perks=3798852852,2985827016,3300816228,4104185692#notes:Code Duello
 dimwishlist:item=2496242052&perks=3798852852,2985827016,3300816228,2396489472#notes:Code Duello
 
+dimwishlist:item=991314988&perks=2822142346,3977735242,1275731761#notes:Bad Omens
+dimwishlist:item=991314988&perks=2822142346,3300816228,1275731761#notes:Bad Omens
+
 //Swords
 dimwishlist:item=614426548&perks=1749209109,3913600130#notes:Falling Guillotine
+dimwishlist:item=2782325302&perks=938542991,1749209109,3913600130#notes:Crown-Splitter
+dimwishlist:item=2782325300&perks=938542991,1749209109,354401740#notes:Quickfang
+dimwishlist:item=2782325301&perks=938542991,1749209109,354401740#notes:Eternity's Edge
 
 dimwishlist:item=3487253372#notes:The Lament
