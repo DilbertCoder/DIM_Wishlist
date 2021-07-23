@@ -17,9 +17,8 @@ dimwishlist:item=2286143274#notes:Huckleberry
 //Auto Rifles
 dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:Steelfeather Repeater
 
-dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3425386926#notes: Chroma Rush
-dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3592538738#notes: Chroma Rush
-dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,1015611457#notes: Chroma Rush
+dimwishlist:item=1119734784&perks=1820235745,3425386926#notes: Chroma Rush
+dimwishlist:item=1119734784&perks=2779035018,1015611457#notes: Chroma Rush
 
 dimwishlist:item=821154603&perks=4090651448,1087426260,2387244414,3425386926#notes: Gnawing Hunger Titan
 dimwishlist:item=821154603&perks=4090651448,1087426260,1820235745,3425386926#notes: Gnawing Hunger Other
