@@ -1,69 +1,12 @@
 title:TBAS Clan wishlist
 description:List of weapons and rolls enjoyed by the TBAS clan
 
-//List of perks and their numbers
-//A
-//Ambitious Assasin: 2010801679
-//Auto-Loading Holster: 3300816228
-//Assault Mag: 791862061
-//B
-//C
-//Clown Cartridge: 2284787283
-//D
-//Demolitionist: 3523296417
-//E
-//Explosive Payload: 3038247973
-//Extended Mag: 2420895100
-//F
-//Feeding Frenzy: 2779035018
-//Full Auto Trigger System: 4267945040
-//G
-//H
-//High-Impact Reserves: 2213355989
-//I
-//J
-//K
-//Kill Clip: 1015611457
-//L
-//M
-//Model 8 Red Scope: 663495154
-//Multikill Clip: 2458213969
-//N
-//O
-//P
-//Q
-//R
-//Rapid Hit: 247725512
-//Rampage: 3425386926
-//Rangefinder: 2846385770
-//Recombination: 469285294
-//Reconstruction: 1523832109
-//Relentles Strikes: 1749209109
-//S
-//Subsistence: 1820235745
-//Swashbuckler:4082225868
-//T
-//Tactical Mag: 106909392
-//Trench Barrel: 2360754333
-//Triple Tap: 3400784728
-//U
-//Unrelenting: 3108830275
-//V
-//Vorpal: 1546637391
-//W
-//Whirlwind Blade: 3913600130
-//X
-//Y
-//Z
-//Zen Moment: 2387244414
-
-//To find the perk and weapon numbers go to https://data.destinysets.com/
-//Enter in the name of the perk or weapon and you ware looking for the items that say:
-// "InventoryItem: Trait" for perks
-// "InventoryItem: <weapontype>" for weapons
-// ex: Excape Velocity would say "InventoryItem: Submachine Gun"
-// The website https://d2gunsmith.com/ lets you build a weapon and then export the DIM wishlist text
-// very useful
+//To add a an item. Go to https://d2gunsmith.com/
+//Build the weapon with the perks you want
+//The click the button near the bottom of the page to Copy to DIM Wishlist
+//this will put the dimsihlist string on your clip board. 
+//Past that string into this file. 
+//Reload this file thru DIM. 
 
 //Submachine Guns
 dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391#notes:Escape Velocity
