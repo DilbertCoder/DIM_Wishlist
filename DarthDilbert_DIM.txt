@@ -97,6 +97,7 @@ dimwishlist:item=2496242052&perks=3798852852,2985827016,3300816228,2396489472#no
 
 dimwishlist:item=991314988&perks=2822142346,3977735242,1275731761#notes:Bad Omens
 dimwishlist:item=991314988&perks=2822142346,3300816228,1275731761#notes:Bad Omens
+dimwishlist:item=991314988&perks=3300816228,1275731761#notes:Bad Omens
 
 //Swords
 dimwishlist:item=614426548&perks=1749209109,3913600130#notes:Falling Guillotine
