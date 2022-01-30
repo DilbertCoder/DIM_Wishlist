@@ -53,6 +53,10 @@ dimwishlist:item=3037520408&perks=4090651448,106909392,1354429876,2213355989#not
 
 dimwishlist:item=1046651176&perks=4090651448,1087426260,1820235745,3425386926#notes:Bottom Dollar
 
+dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,4104185692,2697220197#notes:Fatebringer Range God Roll
+dimwishlist:item=2171478765&perks=4090651448,106909392,3038247973,4104185692,2697220197#notes:Fatebringer PvE God Roll
+dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Fatebringer Good Perks
+
 //Sidearms
 dimwishlist:item=2362471601#notes:Rat King
 dimwishlist:item=1853180924#notes:Traveler's Chosen
