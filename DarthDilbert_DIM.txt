@@ -71,8 +71,8 @@ dimwishlist:item=814876684#notes:Wish-Ender
 dimwishlist:item=3654674561&perks=1820235745#notes:Dead Man's Tale
 dimwishlist:item=3654674561&perks=2450788523#notes:Dead Man's Tale
 
-dimwishlist:item=1392919471&perks=1523832109,3201496230#notes: Trustee
-dimwishlist:item=1392919471&perks=4090651448,106909392,1523832109,3201496230#notes: Trustee
+dimwishlist:item=1392919471&perks=4090651448,106909392,1523832109,3201496230,2697220197#notes: Trustee God Roll
+dimwishlist:item=1392919471&perks=4090651448,106909392,1523832109,3201496230#notes: Trustee Good Perks
 
 dimwishlist:item=3504336176&perks=1820235745,3038247973#notes:Nightwatch
 dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Nightwatch
