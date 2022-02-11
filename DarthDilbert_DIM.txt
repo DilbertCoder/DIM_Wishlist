@@ -32,6 +32,9 @@ dimwishlist:item=1337707096&perks=106909392,1168162263,4104185692#notes: Chrysur
 dimwishlist:item=1337707096&perks=106909392,1354429876,4104185692#notes: Chrysura Melo
 dimwishlist:item=1337707096&perks=106909392,1354429876,438098033#notes: Chrysura Melo
 
+dimwishlist:item=20935540&perks=4090651448,106909392,2450788523,1546637391#notes:Arctic Haze Titan
+dimwishlist:item=20935540&perks=4090651448,106909392,1820235745,1546637391#notes:Arctic Haze Hunter or Warlock
+
 //Machine Guns
 dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926,186337601#notes:Commemoration God Roll
 dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926#notes:Commemoration good perks
