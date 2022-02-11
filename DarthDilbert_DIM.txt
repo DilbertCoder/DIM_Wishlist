@@ -33,14 +33,16 @@ dimwishlist:item=1337707096&perks=106909392,1354429876,4104185692#notes: Chrysur
 dimwishlist:item=1337707096&perks=106909392,1354429876,438098033#notes: Chrysura Melo
 
 //Machine Guns
-dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,3425386926#notes:Commemoration
-dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,2848615171#notes:Commemoration
+dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926,186337601#notes:Commemoration God Roll
+dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926#notes:Commemoration good perks
+dimwishlist:item=4230965989&perks=1523832109,3425386926
 
 dimwishlist:item=1395261499#notes:Xenophages - Quest Exotic
 
 //Shotguns
-dimwishlist:item=4248569242&perks=1482024992,106909392,1523832109,469285294#notes:Heritage
-dimwishlist:item=4248569242&perks=1482024992,106909392,3300816228,469285294#notes:Heritage
+dimwishlist:item=4248569242&perks=106909392,3300816228,2450788523#notes:Hertiage good perks
+dimwishlist:item=4248569242&perks=106909392,1523832109,2450788523#notes:Hertiage good perks
+dimwishlist:item=4248569242&perks=4090651448,106909392,1523832109,2450788523#notes:Hertiage god roll
 
 dimwishlist:item=3184681056&perks=106909392,706527188,438098033#notes:Fractethyst
 dimwishlist:item=3184681056&perks=1300023272,106909392,706527188,438098033#notes:Fractethyst
@@ -56,6 +58,8 @@ dimwishlist:item=1046651176&perks=4090651448,1087426260,1820235745,3425386926#no
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,4104185692,2697220197#notes:Fatebringer Range God Roll
 dimwishlist:item=2171478765&perks=4090651448,106909392,3038247973,4104185692,2697220197#notes:Fatebringer PvE God Roll
 dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Fatebringer Good Perks
+
+dimwishlist:item=3281285075&perks=106909392,1523832109,3425386926#notes:Posterity good perks
 
 //Sidearms
 dimwishlist:item=2362471601#notes:Rat King
@@ -82,6 +86,8 @@ dimwishlist:item=3504336176&perks=4090651448,106909392,1820235745,3038247973#not
 dimwishlist:item=4166221755&perks=1546637391#notes:Trophy Hunter
 
 dimwishlist:item=2603483885&perks=1840239774,1431678320,3117514172,990298390#notes:Cloudstrike
+
+dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391#notes:Succesion good perks
 
 //Linear Fusion Rifles
 
