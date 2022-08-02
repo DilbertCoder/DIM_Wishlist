@@ -64,6 +64,8 @@ dimwishlist:item=2171478765&perks=4090651448,106909392,3038247973,4104185692,269
 
 dimwishlist:item=3281285075&perks=106909392,1523832109,3425386926#notes:Posterity good perks
 
+dimwishlist:item=3055790362&perks=4090651448,3230963543,3400784728,4104185692#notes:Austringer
+
 //Sidearms
 dimwishlist:item=2362471601#notes:Rat King
 dimwishlist:item=1853180924#notes:Traveler's Chosen
@@ -73,6 +75,8 @@ dimwishlist:item=1621558458&perks=2450788523,4104185692,2697220197#notes: Gridsk
 
 //Bows
 dimwishlist:item=814876684#notes:Wish-Ender
+
+dimwishlist:item=232928045&perks=1784898267,16392701,201365942,1048183818#Notes: Under Your Skin
 
 //Scout Rifles
 dimwishlist:item=3654674561&perks=1820235745#notes:Dead Man's Tale
