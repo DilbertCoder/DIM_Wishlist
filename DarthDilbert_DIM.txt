@@ -4,128 +4,137 @@ description:Custom wishlist based on my play style with a Titan main character, 
 // The website https://d2gunsmith.com/ lets you build a weapon and then export the DIM wishlist text
 // very useful
 
-//Submachine Guns
-dimwishlist:item=3886416794&perks=,106909392,1820235745,4104185692#notes:Submission base
-dimwishlist:item=3886416794&perks=4090651448,106909392,4245865861,3007133316#notes:Submission best
+// Auto Rifles
+// Arctic Haze
+dimwishlist:item=20935540&perks=4090651448,106909392,1820235745,1546637391
 
-dimwishlist:item=2286143274#notes:Huckleberry
+// Arclogic
+dimwishlist:item=2723909519&perks=4090651448,106909392,1820235745,4104185692
+dimwishlist:item=2723909519&perks=4090651448,106909392,1820235745,3425386926
 
-//Auto Rifles
-dimwishlist:item=1251729046&perks=2779035018,2458213969#notes:Steelfeather Repeater
+// Duty Bound
+dimwishlist:item=435216110&perks=4090651448,106909392,1583705720,4104185692
+dimwishlist:item=435216110&perks=4090651448,106909392,1583705720,3425386926
+dimwishlist:item=435216110&perks=4090651448,106909392,1583705720,1546637391
 
-dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3425386926,2697220197#notes: Chroma Rush God Roll 1
-dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,1015611457,2697220197#notes: Chroma Rush God Roll 2
-dimwishlist:item=1119734784&perks=2779035018,1015611457#notes: Chroma Rush Good Perks
-dimwishlist:item=1119734784&perks=1820235745,3425386926#notes: Chroma Rush Good Perks
+// Herod-C
+dimwishlist:item=1788603939&perks=4090651448,3230963543,1820235745,4104185692
+dimwishlist:item=1788603939&perks=4090651448,3230963543,1820235745,1546637391
 
-dimwishlist:item=821154603&perks=4090651448,1087426260,2387244414,3425386926#notes: Gnawing Hunger Titan
-dimwishlist:item=821154603&perks=4090651448,1087426260,1820235745,3425386926#notes: Gnawing Hunger Other
+// Krait
+dimwishlist:item=2852052802&perks=4090651448,1087426260,1820235745,1546637391
+dimwishlist:item=2852052802&perks=4090651448,1087426260,1820235745,124408337
 
-dimwishlist:item=602618796&perks=1820235745,3425386926#notes: Scathelocke
-dimwishlist:item=602618796&perks=4090651448,106909392,1820235745,3425386926#notes: Scathelocke
-dimwishlist:item=602618796&perks=4090651448,106909392,1820235745,3425386926,2697220197#notes: Scathelocke god roll
+// Scathelocke
+dimwishlist:item=602618796&perks=4090651448,106909392,1820235745,3425386926
 
-dimwishlist:item=1337707096&perks=106909392,1168162263,4104185692#notes: Chrysura Melo
-dimwishlist:item=1337707096&perks=106909392,1354429876,4104185692#notes: Chrysura Melo
-dimwishlist:item=1337707096&perks=106909392,1354429876,438098033#notes: Chrysura Melo
+// Seventh Seraph Carbine
+dimwishlist:item=1561006927&perks=4090651448,3230963543,3300816228,3425386926
+dimwishlist:item=1561006927&perks=4090651448,3230963543,3300816228,1546637391
 
-dimwishlist:item=20935540&perks=4090651448,106909392,2450788523,1546637391#notes:Arctic Haze Titan
-dimwishlist:item=20935540&perks=4090651448,106909392,1820235745,1546637391#notes:Arctic Haze Hunter or Warlock
+// Tigerspite
+dimwishlist:item=640114618&perks=4090651448,3230963543,1820235745,4104185692
 
-//Machine Guns
-dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926,186337601#notes:Commemoration God Roll
-dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926#notes:Commemoration good perks
-dimwishlist:item=4230965989&perks=1523832109,3425386926
+// The Last Breath
+dimwishlist:item=507038823&perks=4090651448,3230963543,1820235745,4104185692
 
-dimwishlist:item=1395261499#notes:Xenophages - Quest Exotic
+// Gnawing Hunger
+dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,3425386926
 
-//Shotguns
-dimwishlist:item=4248569242&perks=106909392,3300816228,2450788523#notes:Hertiage good perks
-dimwishlist:item=4248569242&perks=106909392,1523832109,2450788523#notes:Hertiage good perks
-dimwishlist:item=4248569242&perks=4090651448,106909392,1523832109,2450788523#notes:Hertiage god roll
+// Chroma Rush
+dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3425386926
 
-dimwishlist:item=3184681056&perks=106909392,706527188,438098033#notes:Fractethyst
-dimwishlist:item=3184681056&perks=1300023272,106909392,706527188,438098033#notes:Fractethyst
-dimwishlist:item=3184681056&perks=1300023272,106909392,706527188,3673922083#notes:Fractethyst
+// Sweet Sorrow
+dimwishlist:item=1248372789&perks=4090651448,106909392,1583705720,1546637391
+dimwishlist:item=1248372789&perks=4090651448,106909392,1428297954,1546637391
 
-//Handcannons
-dimwishlist:item=3569802112&perks=2779035018,1015611457#notes:The Old Fashioned
+//--------------------------------------------------------------------------
+// Bows
+// Under Your Skin
+dimwishlist:item=232928045&perks=1784898267,16392701,201365942,3365897133
+dimwishlist:item=232928045&perks=1784898267,16392701,201365942,1048183818
 
-dimwishlist:item=3037520408&perks=4090651448,106909392,1354429876,2213355989#notes:Seventh Seraph Officer Revolver
+// Wolftone Draw
+dimwishlist:item=3472875143&perks=1784898267,16392701,201365942,4104185692
+dimwishlist:item=3472875143&perks=1784898267,16392701,951095735,4104185692
 
-dimwishlist:item=1046651176&perks=4090651448,1087426260,1820235745,3425386926#notes:Bottom Dollar
+//--------------------------------------------------------------------------
+// Handcannons
+// Bottom Dollar
+dimwishlist:item=1046651176&perks=4090651448,106909392,1820235745,3425386926
+dimwishlist:item=1046651176&perks=4090651448,106909392,1820235745,3038247973
 
-dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,4104185692,2697220197#notes:Fatebringer Range God Roll
-dimwishlist:item=2171478765&perks=4090651448,106909392,3038247973,4104185692,2697220197#notes:Fatebringer PvE God Roll
-dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:Fatebringer Good Perks
-dimwishlist:item=2171478765&perks=4090651448,106909392,3038247973,4104185692#notes:Fatebringer Good Perks
-dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,4104185692#notes:Fatebringer Ramge
-dimwishlist:item=2171478765&perks=4090651448,106909392,3038247973,4104185692,2697220197#notes:Fatebringer God roll
+// Austringer
+dimwishlist:item=3055790362&perks=4090651448,3230963543,3400784728,4104185692
+dimwishlist:item=3055790362&perks=4090651448,3230963543,3400784728,3425386926
 
-dimwishlist:item=3281285075&perks=106909392,1523832109,3425386926#notes:Posterity good perks
+//--------------------------------------------------------------------------
+// Pulse Rifles
+// Insidious
+dimwishlist:item=3428521585&perks=4090651448,106909392,1583705720,3425386926
+dimwishlist:item=3428521585&perks=4090651448,106909392,1583705720,1546637391
 
-dimwishlist:item=3055790362&perks=4090651448,3230963543,3400784728,4104185692#notes:Austringer
+//--------------------------------------------------------------------------
+// Scout Rifles
+// Contingency Plan
+dimwishlist:item=577528837&perks=4090651448,1087426260,1820235745,4104185692
 
-//Sidearms
-dimwishlist:item=2362471601#notes:Rat King
-dimwishlist:item=1853180924#notes:Traveler's Chosen
+// Perses-D
+dimwishlist:item=1019000888&perks=4090651448,106909392,1428297954,3038247973
+dimwishlist:item=1019000888&perks=4090651448,106909392,1428297954,1546637391
 
-//Pulse Rifles
-dimwishlist:item=1621558458&perks=2450788523,4104185692,2697220197#notes: Gridskipper
+// Servant Leader
+dimwishlist:item=1107446438&perks=4090651448,106909392,1820235745,4104185692
+dimwishlist:item=1107446438&perks=4090651448,106909392,1820235745,3425386926
 
-//Bows
-dimwishlist:item=814876684#notes:Wish-Ender
+// Tears of Contrition
+dimwishlist:item=1366394399&perks=4090651448,106909392,1428297954,1546637391
+dimwishlist:item=1366394399&perks=4090651448,106909392,3400784728,1546637391
+dimwishlist:item=1366394399&perks=4090651448,106909392,1428297954,3038247973
 
-dimwishlist:item=232928045&perks=1784898267,16392701,201365942,1048183818#Notes: Under Your Skin
+// Trustee
+dimwishlist:item=1392919471&perks=4090651448,106909392,1523832109,3201496230
+dimwishlist:item=1392919471&perks=4090651448,106909392,1523832109,2213355989
 
-//Scout Rifles
-dimwishlist:item=3654674561&perks=1820235745#notes:Dead Man's Tale
-dimwishlist:item=3654674561&perks=2450788523#notes:Dead Man's Tale
+// Night Watch
+dimwishlist:item=3504336176&perks=4090651448,106909392,1820235745,3038247973
+dimwishlist:item=3504336176&perks=4090651448,106909392,1820235745,3425386926
 
-dimwishlist:item=1392919471&perks=4090651448,106909392,1523832109,3201496230,2697220197#notes: Trustee God Roll
-dimwishlist:item=1392919471&perks=4090651448,106909392,1523832109,3201496230#notes: Trustee Good Perks
+// Staccato-46
+dimwishlist:item=4019668921&perks=4090651448,106909392,3400784728,3425386926
+dimwishlist:item=4019668921&perks=4090651448,106909392,3400784728,4293542123
+dimwishlist:item=4019668921&perks=4090651448,106909392,744594675,3038247973
 
-dimwishlist:item=3504336176&perks=1820235745,3038247973#notes:Nightwatch
-dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Nightwatch
-dimwishlist:item=3504336176&perks=4090651448,106909392,1820235745,3038247973#notes:Nightwatch
+//--------------------------------------------------------------------------
+// Submachine gun
+// Friction Fire
+dimwishlist:item=1513993763&perks=1840239774,106909392,1820235745,3425386926
+dimwishlist:item=1513993763&perks=1840239774,106909392,1820235745,1546637391
 
-dimwishlist:item=1366394399&perks=,106909392,1428297954,1546637391#notes:Tears of Contrition
-dimwishlist:item=1366394399&perks=,106909392,3400784728,3038247973#notes:Tears of Contrition
-dimwishlist:item=1366394399&perks=4090651448,106909392,2014892510,64866129#notes:Tears of Contrition
+// Enyo-D
+dimwishlist:item=1601177201&perks=1840239774,106909392,2779035018,1546637391
+dimwishlist:item=1601177201&perks=1840239774,106909392,2779035018,3425386926
 
-//Sniper Rifles
-dimwishlist:item=4166221755&perks=1546637391#notes:Trophy Hunter
+// Calus Mini-Tool
+dimwishlist:item=2490988246&perks=1840239774,106909392,1631667848,4293542123
 
-dimwishlist:item=2603483885&perks=1840239774,1431678320,3117514172,990298390#notes:Cloudstrike
+// Submission
+dimwishlist:item=3886416794&perks=4090651448,106909392,4245865861,3007133316
 
-dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391#notes:Succesion good perks
+// Funnelweb
+dimwishlist:item=3341893443&perks=1840239774,106909392,1820235745,4104185692
 
-//Linear Fusion Rifles
+//--------------------------------------------------------------------------
+// Shotgun
+// Heritage
+dimwishlist:item=4248569242&perks=839105230,106909392,1523832109,469285294
 
-//Fusion Rifles
+//--------------------------------------------------------------------------
+// Mechine Gun
+// Commemoration
+dimwishlist:item=4230965989&perks=839105230,106909392,1523832109,3425386926
 
-//Trace Rifles
-dimwishlist:item=4103414242#notes:Divinity
-
-//Grenade Launcher
-dimwishlist:item=2357297366#notes:Witherhoard
-
-//Heavy Grenade Launcher
-
-//Rocket Launcher
-dimwishlist:item=2399110176#notes:Eyes of Tomorrow
-
-dimwishlist:item=2496242052&perks=3798852852,2985827016,3300816228,4104185692#notes:Code Duello
-dimwishlist:item=2496242052&perks=3798852852,2985827016,3300816228,2396489472#notes:Code Duello
-
-dimwishlist:item=991314988&perks=2822142346,3977735242,1275731761#notes:Bad Omens
-dimwishlist:item=991314988&perks=2822142346,3300816228,1275731761#notes:Bad Omens
-dimwishlist:item=991314988&perks=3300816228,1275731761#notes:Bad Omens
-
-//Swords
-dimwishlist:item=614426548&perks=1749209109,3913600130#notes:Falling Guillotine
-dimwishlist:item=2782325302&perks=938542991,1749209109,3913600130#notes:Crown-Splitter
-dimwishlist:item=2782325300&perks=938542991,1749209109,354401740#notes:Quickfang
-dimwishlist:item=2782325301&perks=938542991,1749209109,354401740#notes:Eternity's Edge
-
-dimwishlist:item=3487253372#notes:The Lament
+//--------------------------------------------------------------------------
+// Fusion Rifles
+// Null Composure
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2213355989
