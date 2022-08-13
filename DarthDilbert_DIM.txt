@@ -4,6 +4,7 @@ description:Custom wishlist based on my play style with a Titan main character, 
 // The website https://d2gunsmith.com/ lets you build a weapon and then export the DIM wishlist text
 // very useful
 
+//--------------------------------------------------------------------------
 // Auto Rifles
 // Arctic Haze
 dimwishlist:item=20935540&perks=,1820235745,1546637391
@@ -211,3 +212,22 @@ dimwishlist:item=3489657138&perks=3798852852,2822142346,3300816228,4104185692
 dimwishlist:item=3489657138&perks=3798852852,2822142346,3300816228,2396489472
 dimwishlist:item=3489657138&perks=3798852852,2822142346,3528046508,598607952
 dimwishlist:item=3489657138&perks=3798852852,2822142346,3528046508,3007133316
+
+//--------------------------------------------------------------------------
+// Grenade Launcher
+// Forbearance
+dimwishlist:item=613334176&perks=3798852852,2822142346,2010801679,2396489472
+dimwishlist:item=613334176&perks=3798852852,2822142346,2010801679,3425386926
+dimwishlist:item=613334176&perks=3798852852,2822142346,3797647183,598607952
+
+//Salvager's Salvo
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+
+//Empty Vessel
+dimwishlist:item=4255586669&perks=,3032599245,3300816228,1683379515
+dimwishlist:item=4255586669&perks=,3032599245,3300816228,1546637391
+dimwishlist:item=4255586669&perks=,3032599245,2010801679,1546637391
+
+//Explosive Personality
+dimwishlist:item=4096943616&perks=,3300816228,4104185692
+dimwishlist:item=4096943616&perks=3798852852,2822142346,3300816228,4104185692
