@@ -8,4 +8,35 @@ description:List of weapons and rolls enjoyed by the TBAS clan
 //Past that string into this file. 
 //Reload this file thru DIM. 
 
-//TBD
+//---------------------------------------------------------------------------------
+// Needed Exotics:
+dimwishlist:item=400096939
+dimwishlist:item=814876685
+dimwishlist:item=1363886209
+dimwishlist:item=1395261499
+dimwishlist:item=1508896098
+dimwishlist:item=1594120904
+dimwishlist:item=1891561814
+dimwishlist:item=2130065553
+dimwishlist:item=2208405142
+dimwishlist:item=2357297366
+dimwishlist:item=2376481550
+dimwishlist:item=3089417789
+dimwishlist:item=3487253372
+dimwishlist:item=4103414242
+
+//---------------------------------------------------------------------------------
+// Useful Exotics:
+dimwishlist:item=4036115577
+dimwishlist:item=3973202132
+dimwishlist:item=3654674561
+dimwishlist:item=3524313097
+dimwishlist:item=3211806999
+dimwishlist:item=2907129557
+dimwishlist:item=2603483885
+dimwishlist:item=2399110176
+dimwishlist:item=2362471601
+dimwishlist:item=2286143274
+dimwishlist:item=2179048386
+dimwishlist:item=1833195496
+dimwishlist:item=204878059
