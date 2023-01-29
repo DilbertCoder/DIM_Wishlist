@@ -321,3 +321,22 @@ dimwishlist:item=3652506829&perks=,3300816228,4104185692
 dimwishlist:item=3652506829&perks=,3300816228,1546637391
 
 
+//--------------------------------------------------------------------------
+// Sniper Rifles
+// Defiance of Yasmin
+dimwishlist:item=3228096719&perks=4090651448,106909392,1183436451,395388285
+
+// IKELOS_SR_v1.0.3
+dimwishlist:item=2302346155&perks=4090651448,106909392,2682205016,2002547233
+
+// Succession
+dimwishlist:item=2990047042&perks=4090651448,106909392,461595545,395388285
+
+// Beloved
+dimwishlist:item=3107853529&perks=4090651448,1968497646,848860060,2675184851
+
+// Father's Sins
+dimwishlist:item=3865728990&perks=4090651448,106909392,3442762221,4116820839
+
+// Thoughtless
+dimwishlist:item=4067556514&perks=4090651448,106909392,2682205016,395388285
